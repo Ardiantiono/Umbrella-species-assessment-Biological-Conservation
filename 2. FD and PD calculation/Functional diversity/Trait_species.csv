@@ -1,0 +1,6 @@
+Species,Cathemeral,Diurnal,Nocturnal,Herbivore,Carnivore,Omnivore,HabitatBreadth,Bodymass_kg,Litter_size,Max_longevity_yr
+SP1,1,0,0,0,1,0,1,8.17,2.99,13.7260274
+SP2,1,0,0,1,0,0,1.008,110.94222,1.22,20.16666667
+SP3,1,0,0,0,1,0,1.401,11.5,1.25,18.33333333
+SP4,0,0,1,0,0,1,1,1.2627,1.73,13.33333333
+SP5,0,0,1,0,1,0,1,1.39616,3.49,13.9
